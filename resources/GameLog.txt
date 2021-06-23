@@ -1,0 +1,30 @@
+Uno Game between Player 1: TAYLOR and Player 2: DANIEL has started!
+Starting card is [ Blue Zero ]
+Player 1 plays [ Blue Five ] card.
+Player 2 plays [ Blue Skip ] card.
+Player 1's turn has been skipped!
+Player 2 draws a card.
+Player 1 plays [ Blue Reverse ] card.
+Turn order reversed!
+Player 2's turn has been skipped!
+Player 1 draws a card.
+Player 2 draws a card.
+Player 1 draws a card.
+Player 2 draws a card.
+Player 1 plays [ Blue PlusTwo ] card.
+Player 2 is forced to draw 2 cards.
+Player 2 plays [ Blue Three ] card.
+Player 1 draws a card.
+Player 2 draws a card.
+Player 1 draws a card.
+Player 2 plays [ Red Three ] card.
+Player 1 draws a card.
+Player 2 plays [ Red Skip ] card.
+Player 1's turn has been skipped!
+Player 2 plays [ Red Eight ] card.
+Player 1 draws a card.
+Player 2 draws a card.
+Player 1 plays [ Red One ] card.
+Player 2 plays [ Red Five ] card.
+Player 1 has forfeited the game!
+Player 2 won the game!

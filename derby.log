@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jun 04 23:53:42 NZST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0179-d6df-3358-0000069ba360 
+on database directory /Users/prayagshethia/Downloads/P29_17992610_1387965_18027156/UNODB_Ebd with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/Users/prayagshethia/Downloads/P29_17992610_1387965_18027156/resources/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_281-b09
+user.dir=/Users/prayagshethia/Downloads/P29_17992610_1387965_18027156
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

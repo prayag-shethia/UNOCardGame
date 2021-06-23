@@ -1,0 +1,30 @@
+<html>
+  <div style="text-align:center;"><h2>UNO GAME RULES</h2></div>
+
+<ol>
+  <li>This game is made for 2 players with unique usernames.</li>
+<li>Players start with 7 cards in their hand and the first card from the Draw Pile is drawn as the starting card. <strong>NOTE:</strong> Any actions of the starting card are ignored and a random colour is assigned if the card is a Wild card. </li>
+<li>There are 3 types of cards to be played: 
+  <ul>
+<li>Number Card: Which have a 'number' value and a 'colour'. Playing these simply add points to your score.</li>
+<li>Action Card: Which have an 'action' and a 'colour'. Playing one of these cards either forces the opposing player to draw 2 cards, or have their turn skipped.</li>
+<li>Wild Card: Which allow you to choose the colour of the card. If the Wild card is also a PlusFour card, the opposing player is forced to draw 4 cards.</li>
+  </ul>
+<li>Every card played must match either the type, number, action or the colour of the last card that was played, if no card in your hand can be played, you are forced to draw a card.</li>
+  <li>All the played cards are added to the Discard Pile once played.</li>
+<li>If a player draws or is forced to draw from the Draw Pile and there aren't enough cards, all the cards except the last card played in the Discard Pile are shuffled back into the Draw Pile.</li>
+<li>Points: Points will be counted only if the card is played, not if the card is drawn.</li>
+  <ul>
+  <li>Number Card = 0-9 points (for eg: number 5 has 5        points and number 8 has 8 points)</li>
+  <li>Action Card = 20 points</li>
+  <li>Wild Card   = 50 points</li>
+  </ul>
+<li>If you have one card remaining in your hand, you will call UNO!</li>
+<li>The game ends when either player has reached 300 points, there are no cards left in any of the players hands or a player forfeits the game.</li>
+<li>The player who reaches 250 points, plays all the cards in their hand or their opposing player forfeits the game are the winners!</li>
+<li>Once the game ends, the scores and usernames of all players are stored, if you have played before, your score is updated. </li>
+<li>You also have the option to display the highest score across all players or a log of all moves completed during the game.</li>
+  </ol>
+
+<div style="text-align:center;"><h3>Good Luck :)</h3></div>
+  </html>
